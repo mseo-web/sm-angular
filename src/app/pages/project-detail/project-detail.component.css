@@ -1,0 +1,13 @@
+.portfolio-details .portfolio-info h3 {
+  font-size: 22px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.project-detail-category {
+  display: inline-block;
+  margin: 0 4px 8px 4px;
+  padding: 8px 20px;
+  background-color: #f84c6b;
+  border-radius: 50px;
+}

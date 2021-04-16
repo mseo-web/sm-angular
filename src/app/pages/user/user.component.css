@@ -1,0 +1,8 @@
+img.avatar {
+  height: auto;
+  border-radius: 10px;
+}
+
+.card-description {
+  text-align: center;
+}

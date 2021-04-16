@@ -1,0 +1,2592 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Компания \"SMARTEXWEB\"",
+      "description": "Этот проект создан с целью изучения CMS WordPress и с целью изучить и разобраться в огромном количестве тем, плагинов, аддонов, фреймворков и прочего для CMS WordPress.",
+      "client": "SMARTEXWEB",
+      "spec": "Генеральный директор, программист fullstack.",
+      "period": "2020",
+      "siteurl": "https://smartexweb.kz/",
+      "created_at": "2021-02-05 15:26:28",
+      "updated_at": "2021-02-05 15:26:28",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 21,
+          "model_type": "App\\Models\\Project",
+          "model_id": 1,
+          "collection_name": "photo",
+          "name": "601e816857850_smartexweb4",
+          "file_name": "601e816857850_smartexweb4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 72298,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 9,
+          "created_at": "2021-02-06T11:46:07.000000Z",
+          "updated_at": "2021-02-06T11:46:07.000000Z",
+          "thumbnail": "/storage/21/conversions/601e816857850_smartexweb4-thumb.jpg"
+        },
+        {
+          "id": 22,
+          "model_type": "App\\Models\\Project",
+          "model_id": 1,
+          "collection_name": "photo",
+          "name": "601e81701483d_smartexweb1",
+          "file_name": "601e81701483d_smartexweb1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 126965,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 10,
+          "created_at": "2021-02-06T11:46:07.000000Z",
+          "updated_at": "2021-02-06T11:46:08.000000Z",
+          "thumbnail": "/storage/22/conversions/601e81701483d_smartexweb1-thumb.jpg"
+        },
+        {
+          "id": 23,
+          "model_type": "App\\Models\\Project",
+          "model_id": 1,
+          "collection_name": "photo",
+          "name": "601e817764703_smartexwebml2",
+          "file_name": "601e817764703_smartexwebml2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 139443,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 11,
+          "created_at": "2021-02-06T11:46:08.000000Z",
+          "updated_at": "2021-02-06T11:46:08.000000Z",
+          "thumbnail": "/storage/23/conversions/601e817764703_smartexwebml2-thumb.jpg"
+        },
+        {
+          "id": 24,
+          "model_type": "App\\Models\\Project",
+          "model_id": 1,
+          "collection_name": "photo",
+          "name": "601e817d70e0a_smartexwebml3",
+          "file_name": "601e817d70e0a_smartexwebml3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 157933,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 12,
+          "created_at": "2021-02-06T11:46:08.000000Z",
+          "updated_at": "2021-02-06T11:46:08.000000Z",
+          "thumbnail": "/storage/24/conversions/601e817d70e0a_smartexwebml3-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 7,
+          "name": "WORDPRESS",
+          "description": "wordpress",
+          "created_at": "2021-02-05 14:28:43",
+          "updated_at": "2021-02-05 14:28:43",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 1,
+            "project_category_id": 7
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 1,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 21,
+          "model_type": "App\\Models\\Project",
+          "model_id": 1,
+          "collection_name": "photo",
+          "name": "601e816857850_smartexweb4",
+          "file_name": "601e816857850_smartexweb4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 72298,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 9,
+          "created_at": "2021-02-06T11:46:07.000000Z",
+          "updated_at": "2021-02-06T11:46:07.000000Z",
+          "thumbnail": "/storage/21/conversions/601e816857850_smartexweb4-thumb.jpg"
+        },
+        {
+          "id": 22,
+          "model_type": "App\\Models\\Project",
+          "model_id": 1,
+          "collection_name": "photo",
+          "name": "601e81701483d_smartexweb1",
+          "file_name": "601e81701483d_smartexweb1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 126965,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 10,
+          "created_at": "2021-02-06T11:46:07.000000Z",
+          "updated_at": "2021-02-06T11:46:08.000000Z",
+          "thumbnail": "/storage/22/conversions/601e81701483d_smartexweb1-thumb.jpg"
+        },
+        {
+          "id": 23,
+          "model_type": "App\\Models\\Project",
+          "model_id": 1,
+          "collection_name": "photo",
+          "name": "601e817764703_smartexwebml2",
+          "file_name": "601e817764703_smartexwebml2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 139443,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 11,
+          "created_at": "2021-02-06T11:46:08.000000Z",
+          "updated_at": "2021-02-06T11:46:08.000000Z",
+          "thumbnail": "/storage/23/conversions/601e817764703_smartexwebml2-thumb.jpg"
+        },
+        {
+          "id": 24,
+          "model_type": "App\\Models\\Project",
+          "model_id": 1,
+          "collection_name": "photo",
+          "name": "601e817d70e0a_smartexwebml3",
+          "file_name": "601e817d70e0a_smartexwebml3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 157933,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 12,
+          "created_at": "2021-02-06T11:46:08.000000Z",
+          "updated_at": "2021-02-06T11:46:08.000000Z",
+          "thumbnail": "/storage/24/conversions/601e817d70e0a_smartexwebml3-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "SMARTEXWEB - OctoberCMS",
+      "description": "Этот проект создан с целью изучения CMS October и с целью изучить и разобраться в огромном количестве тем, плагинов и прочего для CMS October.",
+      "client": "SMARTEXWEB",
+      "spec": "Генеральный директор, программист fullstack.",
+      "period": "2020",
+      "siteurl": "https://october.smartexweb.kz/",
+      "created_at": "2021-02-06 09:26:35",
+      "updated_at": "2021-02-06 09:26:35",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 17,
+          "model_type": "App\\Models\\Project",
+          "model_id": 2,
+          "collection_name": "photo",
+          "name": "601e8145162d0_smartexwebml4",
+          "file_name": "601e8145162d0_smartexwebml4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 68478,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 5,
+          "created_at": "2021-02-06T11:45:30.000000Z",
+          "updated_at": "2021-02-06T11:45:30.000000Z",
+          "thumbnail": "/storage/17/conversions/601e8145162d0_smartexwebml4-thumb.jpg"
+        },
+        {
+          "id": 18,
+          "model_type": "App\\Models\\Project",
+          "model_id": 2,
+          "collection_name": "photo",
+          "name": "601e814b43caa_smartexwebml1",
+          "file_name": "601e814b43caa_smartexwebml1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 89589,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 6,
+          "created_at": "2021-02-06T11:45:30.000000Z",
+          "updated_at": "2021-02-06T11:45:30.000000Z",
+          "thumbnail": "/storage/18/conversions/601e814b43caa_smartexwebml1-thumb.jpg"
+        },
+        {
+          "id": 19,
+          "model_type": "App\\Models\\Project",
+          "model_id": 2,
+          "collection_name": "photo",
+          "name": "601e81534dfb1_smartexwebml2",
+          "file_name": "601e81534dfb1_smartexwebml2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 139443,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 7,
+          "created_at": "2021-02-06T11:45:30.000000Z",
+          "updated_at": "2021-02-06T11:45:30.000000Z",
+          "thumbnail": "/storage/19/conversions/601e81534dfb1_smartexwebml2-thumb.jpg"
+        },
+        {
+          "id": 20,
+          "model_type": "App\\Models\\Project",
+          "model_id": 2,
+          "collection_name": "photo",
+          "name": "601e8158c8da9_smartexwebml3",
+          "file_name": "601e8158c8da9_smartexwebml3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 157933,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 8,
+          "created_at": "2021-02-06T11:45:30.000000Z",
+          "updated_at": "2021-02-06T11:45:30.000000Z",
+          "thumbnail": "/storage/20/conversions/601e8158c8da9_smartexwebml3-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 5,
+          "name": "OCTOBER(CMS)",
+          "description": "october",
+          "created_at": "2021-02-05 14:27:12",
+          "updated_at": "2021-02-05 14:27:12",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 2,
+            "project_category_id": 5
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 2,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 17,
+          "model_type": "App\\Models\\Project",
+          "model_id": 2,
+          "collection_name": "photo",
+          "name": "601e8145162d0_smartexwebml4",
+          "file_name": "601e8145162d0_smartexwebml4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 68478,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 5,
+          "created_at": "2021-02-06T11:45:30.000000Z",
+          "updated_at": "2021-02-06T11:45:30.000000Z",
+          "thumbnail": "/storage/17/conversions/601e8145162d0_smartexwebml4-thumb.jpg"
+        },
+        {
+          "id": 18,
+          "model_type": "App\\Models\\Project",
+          "model_id": 2,
+          "collection_name": "photo",
+          "name": "601e814b43caa_smartexwebml1",
+          "file_name": "601e814b43caa_smartexwebml1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 89589,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 6,
+          "created_at": "2021-02-06T11:45:30.000000Z",
+          "updated_at": "2021-02-06T11:45:30.000000Z",
+          "thumbnail": "/storage/18/conversions/601e814b43caa_smartexwebml1-thumb.jpg"
+        },
+        {
+          "id": 19,
+          "model_type": "App\\Models\\Project",
+          "model_id": 2,
+          "collection_name": "photo",
+          "name": "601e81534dfb1_smartexwebml2",
+          "file_name": "601e81534dfb1_smartexwebml2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 139443,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 7,
+          "created_at": "2021-02-06T11:45:30.000000Z",
+          "updated_at": "2021-02-06T11:45:30.000000Z",
+          "thumbnail": "/storage/19/conversions/601e81534dfb1_smartexwebml2-thumb.jpg"
+        },
+        {
+          "id": 20,
+          "model_type": "App\\Models\\Project",
+          "model_id": 2,
+          "collection_name": "photo",
+          "name": "601e8158c8da9_smartexwebml3",
+          "file_name": "601e8158c8da9_smartexwebml3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 157933,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 8,
+          "created_at": "2021-02-06T11:45:30.000000Z",
+          "updated_at": "2021-02-06T11:45:30.000000Z",
+          "thumbnail": "/storage/20/conversions/601e8158c8da9_smartexwebml3-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "КОМПАНИЯ «SMARTEXWEB» — LARAVEL",
+      "description": "Этот проект создан с целью изучения фреймворка Laravel, с целью изучения Artisan (интерфейс командной строки, который поставляется с Laravel), изучения шаблонизатора Blade, документации и прочего для фреймворка Laravel.",
+      "client": "SMARTEXWEB",
+      "spec": "Генеральный директор, программист fullstack.",
+      "period": "2020",
+      "siteurl": "https://laravel.smartexweb.kz/",
+      "created_at": "2021-02-06 09:32:39",
+      "updated_at": "2021-02-06 09:32:39",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 13,
+          "model_type": "App\\Models\\Project",
+          "model_id": 3,
+          "collection_name": "photo",
+          "name": "601e80ec4244c_smlar4",
+          "file_name": "601e80ec4244c_smlar4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 62250,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2021-02-06T11:44:08.000000Z",
+          "updated_at": "2021-02-06T11:44:08.000000Z",
+          "thumbnail": "/storage/13/conversions/601e80ec4244c_smlar4-thumb.jpg"
+        },
+        {
+          "id": 14,
+          "model_type": "App\\Models\\Project",
+          "model_id": 3,
+          "collection_name": "photo",
+          "name": "601e80f71a3a0_smlar1",
+          "file_name": "601e80f71a3a0_smlar1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 91632,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 2,
+          "created_at": "2021-02-06T11:44:08.000000Z",
+          "updated_at": "2021-02-06T11:44:08.000000Z",
+          "thumbnail": "/storage/14/conversions/601e80f71a3a0_smlar1-thumb.jpg"
+        },
+        {
+          "id": 15,
+          "model_type": "App\\Models\\Project",
+          "model_id": 3,
+          "collection_name": "photo",
+          "name": "601e80fe04b90_smlar2",
+          "file_name": "601e80fe04b90_smlar2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 106684,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 3,
+          "created_at": "2021-02-06T11:44:08.000000Z",
+          "updated_at": "2021-02-06T11:44:08.000000Z",
+          "thumbnail": "/storage/15/conversions/601e80fe04b90_smlar2-thumb.jpg"
+        },
+        {
+          "id": 16,
+          "model_type": "App\\Models\\Project",
+          "model_id": 3,
+          "collection_name": "photo",
+          "name": "601e81062eb20_smlar3",
+          "file_name": "601e81062eb20_smlar3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 86923,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 4,
+          "created_at": "2021-02-06T11:44:08.000000Z",
+          "updated_at": "2021-02-06T11:44:08.000000Z",
+          "thumbnail": "/storage/16/conversions/601e81062eb20_smlar3-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "LARAVEL",
+          "description": "laravel",
+          "created_at": "2021-02-05 14:25:36",
+          "updated_at": "2021-02-05 14:25:36",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 3,
+            "project_category_id": 1
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 3,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 13,
+          "model_type": "App\\Models\\Project",
+          "model_id": 3,
+          "collection_name": "photo",
+          "name": "601e80ec4244c_smlar4",
+          "file_name": "601e80ec4244c_smlar4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 62250,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 1,
+          "created_at": "2021-02-06T11:44:08.000000Z",
+          "updated_at": "2021-02-06T11:44:08.000000Z",
+          "thumbnail": "/storage/13/conversions/601e80ec4244c_smlar4-thumb.jpg"
+        },
+        {
+          "id": 14,
+          "model_type": "App\\Models\\Project",
+          "model_id": 3,
+          "collection_name": "photo",
+          "name": "601e80f71a3a0_smlar1",
+          "file_name": "601e80f71a3a0_smlar1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 91632,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 2,
+          "created_at": "2021-02-06T11:44:08.000000Z",
+          "updated_at": "2021-02-06T11:44:08.000000Z",
+          "thumbnail": "/storage/14/conversions/601e80f71a3a0_smlar1-thumb.jpg"
+        },
+        {
+          "id": 15,
+          "model_type": "App\\Models\\Project",
+          "model_id": 3,
+          "collection_name": "photo",
+          "name": "601e80fe04b90_smlar2",
+          "file_name": "601e80fe04b90_smlar2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 106684,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 3,
+          "created_at": "2021-02-06T11:44:08.000000Z",
+          "updated_at": "2021-02-06T11:44:08.000000Z",
+          "thumbnail": "/storage/15/conversions/601e80fe04b90_smlar2-thumb.jpg"
+        },
+        {
+          "id": 16,
+          "model_type": "App\\Models\\Project",
+          "model_id": 3,
+          "collection_name": "photo",
+          "name": "601e81062eb20_smlar3",
+          "file_name": "601e81062eb20_smlar3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 86923,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 4,
+          "created_at": "2021-02-06T11:44:08.000000Z",
+          "updated_at": "2021-02-06T11:44:08.000000Z",
+          "thumbnail": "/storage/16/conversions/601e81062eb20_smlar3-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "КОМПАНИЯ «PVLTANDYR»",
+      "description": "Этот проект создан с целью изучения CMS WordPress и с целью изучить и разобраться в огромном количестве тем, плагинов, аддонов, фреймворков и прочего для CMS WordPress.",
+      "client": "PVLTANDYR",
+      "spec": "Программист fullstack.",
+      "period": "2020",
+      "siteurl": "https://pvltandyr.smartexweb.kz/",
+      "created_at": "2021-02-06 11:50:18",
+      "updated_at": "2021-02-06 11:54:20",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 33,
+          "model_type": "App\\Models\\Project",
+          "model_id": 4,
+          "collection_name": "photo",
+          "name": "601e83b17bbac_pvltandyr4",
+          "file_name": "601e83b17bbac_pvltandyr4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 147486,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 21,
+          "created_at": "2021-02-06T11:55:46.000000Z",
+          "updated_at": "2021-02-06T11:55:46.000000Z",
+          "thumbnail": "/storage/33/conversions/601e83b17bbac_pvltandyr4-thumb.jpg"
+        },
+        {
+          "id": 34,
+          "model_type": "App\\Models\\Project",
+          "model_id": 4,
+          "collection_name": "photo",
+          "name": "601e83b694221_pvltandyr1",
+          "file_name": "601e83b694221_pvltandyr1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 293760,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 22,
+          "created_at": "2021-02-06T11:55:46.000000Z",
+          "updated_at": "2021-02-06T11:55:47.000000Z",
+          "thumbnail": "/storage/34/conversions/601e83b694221_pvltandyr1-thumb.jpg"
+        },
+        {
+          "id": 35,
+          "model_type": "App\\Models\\Project",
+          "model_id": 4,
+          "collection_name": "photo",
+          "name": "601e83bbec266_pvltandyr2",
+          "file_name": "601e83bbec266_pvltandyr2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 139773,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 23,
+          "created_at": "2021-02-06T11:55:47.000000Z",
+          "updated_at": "2021-02-06T11:55:47.000000Z",
+          "thumbnail": "/storage/35/conversions/601e83bbec266_pvltandyr2-thumb.jpg"
+        },
+        {
+          "id": 36,
+          "model_type": "App\\Models\\Project",
+          "model_id": 4,
+          "collection_name": "photo",
+          "name": "601e83c08a794_pvltandyr3",
+          "file_name": "601e83c08a794_pvltandyr3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 234592,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 24,
+          "created_at": "2021-02-06T11:55:47.000000Z",
+          "updated_at": "2021-02-06T11:55:47.000000Z",
+          "thumbnail": "/storage/36/conversions/601e83c08a794_pvltandyr3-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 7,
+          "name": "WORDPRESS",
+          "description": "wordpress",
+          "created_at": "2021-02-05 14:28:43",
+          "updated_at": "2021-02-05 14:28:43",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 4,
+            "project_category_id": 7
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 4,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 33,
+          "model_type": "App\\Models\\Project",
+          "model_id": 4,
+          "collection_name": "photo",
+          "name": "601e83b17bbac_pvltandyr4",
+          "file_name": "601e83b17bbac_pvltandyr4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 147486,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 21,
+          "created_at": "2021-02-06T11:55:46.000000Z",
+          "updated_at": "2021-02-06T11:55:46.000000Z",
+          "thumbnail": "/storage/33/conversions/601e83b17bbac_pvltandyr4-thumb.jpg"
+        },
+        {
+          "id": 34,
+          "model_type": "App\\Models\\Project",
+          "model_id": 4,
+          "collection_name": "photo",
+          "name": "601e83b694221_pvltandyr1",
+          "file_name": "601e83b694221_pvltandyr1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 293760,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 22,
+          "created_at": "2021-02-06T11:55:46.000000Z",
+          "updated_at": "2021-02-06T11:55:47.000000Z",
+          "thumbnail": "/storage/34/conversions/601e83b694221_pvltandyr1-thumb.jpg"
+        },
+        {
+          "id": 35,
+          "model_type": "App\\Models\\Project",
+          "model_id": 4,
+          "collection_name": "photo",
+          "name": "601e83bbec266_pvltandyr2",
+          "file_name": "601e83bbec266_pvltandyr2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 139773,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 23,
+          "created_at": "2021-02-06T11:55:47.000000Z",
+          "updated_at": "2021-02-06T11:55:47.000000Z",
+          "thumbnail": "/storage/35/conversions/601e83bbec266_pvltandyr2-thumb.jpg"
+        },
+        {
+          "id": 36,
+          "model_type": "App\\Models\\Project",
+          "model_id": 4,
+          "collection_name": "photo",
+          "name": "601e83c08a794_pvltandyr3",
+          "file_name": "601e83c08a794_pvltandyr3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 234592,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 24,
+          "created_at": "2021-02-06T11:55:47.000000Z",
+          "updated_at": "2021-02-06T11:55:47.000000Z",
+          "thumbnail": "/storage/36/conversions/601e83c08a794_pvltandyr3-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Компания \"ФОРМАПЛЮС\"",
+      "description": "Этот проект создан с целью изучения CMS WordPress и с целью изучить и разобраться в огромном количестве тем, плагинов, аддонов, фреймворков и прочего для CMS WordPress.",
+      "client": "Частная компания \"ФОРМАПЛЮС\"",
+      "spec": "Программист fullstack.",
+      "period": "2020",
+      "siteurl": "http://formaplus.ml/",
+      "created_at": "2021-02-06 11:54:06",
+      "updated_at": "2021-02-06 11:54:06",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 29,
+          "model_type": "App\\Models\\Project",
+          "model_id": 5,
+          "collection_name": "photo",
+          "name": "601e8349d90a9_formaplus4",
+          "file_name": "601e8349d90a9_formaplus4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 83593,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 17,
+          "created_at": "2021-02-06T11:54:06.000000Z",
+          "updated_at": "2021-02-06T11:54:06.000000Z",
+          "thumbnail": "/storage/29/conversions/601e8349d90a9_formaplus4-thumb.jpg"
+        },
+        {
+          "id": 30,
+          "model_type": "App\\Models\\Project",
+          "model_id": 5,
+          "collection_name": "photo",
+          "name": "601e834f97cf8_formaplus1",
+          "file_name": "601e834f97cf8_formaplus1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 160406,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 18,
+          "created_at": "2021-02-06T11:54:06.000000Z",
+          "updated_at": "2021-02-06T11:54:06.000000Z",
+          "thumbnail": "/storage/30/conversions/601e834f97cf8_formaplus1-thumb.jpg"
+        },
+        {
+          "id": 31,
+          "model_type": "App\\Models\\Project",
+          "model_id": 5,
+          "collection_name": "photo",
+          "name": "601e835542c60_formaplus2",
+          "file_name": "601e835542c60_formaplus2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 232399,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 19,
+          "created_at": "2021-02-06T11:54:06.000000Z",
+          "updated_at": "2021-02-06T11:54:07.000000Z",
+          "thumbnail": "/storage/31/conversions/601e835542c60_formaplus2-thumb.jpg"
+        },
+        {
+          "id": 32,
+          "model_type": "App\\Models\\Project",
+          "model_id": 5,
+          "collection_name": "photo",
+          "name": "601e835bdcdfa_formaplus3",
+          "file_name": "601e835bdcdfa_formaplus3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 283422,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 20,
+          "created_at": "2021-02-06T11:54:07.000000Z",
+          "updated_at": "2021-02-06T11:54:07.000000Z",
+          "thumbnail": "/storage/32/conversions/601e835bdcdfa_formaplus3-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 7,
+          "name": "WORDPRESS",
+          "description": "wordpress",
+          "created_at": "2021-02-05 14:28:43",
+          "updated_at": "2021-02-05 14:28:43",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 5,
+            "project_category_id": 7
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 5,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 29,
+          "model_type": "App\\Models\\Project",
+          "model_id": 5,
+          "collection_name": "photo",
+          "name": "601e8349d90a9_formaplus4",
+          "file_name": "601e8349d90a9_formaplus4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 83593,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 17,
+          "created_at": "2021-02-06T11:54:06.000000Z",
+          "updated_at": "2021-02-06T11:54:06.000000Z",
+          "thumbnail": "/storage/29/conversions/601e8349d90a9_formaplus4-thumb.jpg"
+        },
+        {
+          "id": 30,
+          "model_type": "App\\Models\\Project",
+          "model_id": 5,
+          "collection_name": "photo",
+          "name": "601e834f97cf8_formaplus1",
+          "file_name": "601e834f97cf8_formaplus1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 160406,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 18,
+          "created_at": "2021-02-06T11:54:06.000000Z",
+          "updated_at": "2021-02-06T11:54:06.000000Z",
+          "thumbnail": "/storage/30/conversions/601e834f97cf8_formaplus1-thumb.jpg"
+        },
+        {
+          "id": 31,
+          "model_type": "App\\Models\\Project",
+          "model_id": 5,
+          "collection_name": "photo",
+          "name": "601e835542c60_formaplus2",
+          "file_name": "601e835542c60_formaplus2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 232399,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 19,
+          "created_at": "2021-02-06T11:54:06.000000Z",
+          "updated_at": "2021-02-06T11:54:07.000000Z",
+          "thumbnail": "/storage/31/conversions/601e835542c60_formaplus2-thumb.jpg"
+        },
+        {
+          "id": 32,
+          "model_type": "App\\Models\\Project",
+          "model_id": 5,
+          "collection_name": "photo",
+          "name": "601e835bdcdfa_formaplus3",
+          "file_name": "601e835bdcdfa_formaplus3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 283422,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 20,
+          "created_at": "2021-02-06T11:54:07.000000Z",
+          "updated_at": "2021-02-06T11:54:07.000000Z",
+          "thumbnail": "/storage/32/conversions/601e835bdcdfa_formaplus3-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Компания \"ЮВЕЛИТА\"",
+      "description": "Этот проект создан с целью изучения CMS WordPress и с целью изучить и разобраться в огромном количестве тем, плагинов, аддонов, фреймворков и прочего для CMS WordPress.",
+      "client": "Частная компания \"ЮВЕЛИТА\"",
+      "spec": "Программист fullstack.",
+      "period": "2020",
+      "siteurl": "https://smartexweb.kz/",
+      "created_at": "2021-02-06 11:57:54",
+      "updated_at": "2021-02-06 11:57:54",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 37,
+          "model_type": "App\\Models\\Project",
+          "model_id": 6,
+          "collection_name": "photo",
+          "name": "601e842fb185f_uvelita4",
+          "file_name": "601e842fb185f_uvelita4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 65221,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 25,
+          "created_at": "2021-02-06T11:57:54.000000Z",
+          "updated_at": "2021-02-06T11:57:54.000000Z",
+          "thumbnail": "/storage/37/conversions/601e842fb185f_uvelita4-thumb.jpg"
+        },
+        {
+          "id": 38,
+          "model_type": "App\\Models\\Project",
+          "model_id": 6,
+          "collection_name": "photo",
+          "name": "601e8434cee30_uvelita1",
+          "file_name": "601e8434cee30_uvelita1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 114845,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 26,
+          "created_at": "2021-02-06T11:57:54.000000Z",
+          "updated_at": "2021-02-06T11:57:54.000000Z",
+          "thumbnail": "/storage/38/conversions/601e8434cee30_uvelita1-thumb.jpg"
+        },
+        {
+          "id": 39,
+          "model_type": "App\\Models\\Project",
+          "model_id": 6,
+          "collection_name": "photo",
+          "name": "601e843ae36e4_uvelita2",
+          "file_name": "601e843ae36e4_uvelita2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 95539,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 27,
+          "created_at": "2021-02-06T11:57:54.000000Z",
+          "updated_at": "2021-02-06T11:57:55.000000Z",
+          "thumbnail": "/storage/39/conversions/601e843ae36e4_uvelita2-thumb.jpg"
+        },
+        {
+          "id": 40,
+          "model_type": "App\\Models\\Project",
+          "model_id": 6,
+          "collection_name": "photo",
+          "name": "601e8440b7ec9_uvelita3",
+          "file_name": "601e8440b7ec9_uvelita3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 159063,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 28,
+          "created_at": "2021-02-06T11:57:55.000000Z",
+          "updated_at": "2021-02-06T11:57:55.000000Z",
+          "thumbnail": "/storage/40/conversions/601e8440b7ec9_uvelita3-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 7,
+          "name": "WORDPRESS",
+          "description": "wordpress",
+          "created_at": "2021-02-05 14:28:43",
+          "updated_at": "2021-02-05 14:28:43",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 6,
+            "project_category_id": 7
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 6,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 37,
+          "model_type": "App\\Models\\Project",
+          "model_id": 6,
+          "collection_name": "photo",
+          "name": "601e842fb185f_uvelita4",
+          "file_name": "601e842fb185f_uvelita4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 65221,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 25,
+          "created_at": "2021-02-06T11:57:54.000000Z",
+          "updated_at": "2021-02-06T11:57:54.000000Z",
+          "thumbnail": "/storage/37/conversions/601e842fb185f_uvelita4-thumb.jpg"
+        },
+        {
+          "id": 38,
+          "model_type": "App\\Models\\Project",
+          "model_id": 6,
+          "collection_name": "photo",
+          "name": "601e8434cee30_uvelita1",
+          "file_name": "601e8434cee30_uvelita1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 114845,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 26,
+          "created_at": "2021-02-06T11:57:54.000000Z",
+          "updated_at": "2021-02-06T11:57:54.000000Z",
+          "thumbnail": "/storage/38/conversions/601e8434cee30_uvelita1-thumb.jpg"
+        },
+        {
+          "id": 39,
+          "model_type": "App\\Models\\Project",
+          "model_id": 6,
+          "collection_name": "photo",
+          "name": "601e843ae36e4_uvelita2",
+          "file_name": "601e843ae36e4_uvelita2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 95539,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 27,
+          "created_at": "2021-02-06T11:57:54.000000Z",
+          "updated_at": "2021-02-06T11:57:55.000000Z",
+          "thumbnail": "/storage/39/conversions/601e843ae36e4_uvelita2-thumb.jpg"
+        },
+        {
+          "id": 40,
+          "model_type": "App\\Models\\Project",
+          "model_id": 6,
+          "collection_name": "photo",
+          "name": "601e8440b7ec9_uvelita3",
+          "file_name": "601e8440b7ec9_uvelita3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 159063,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 28,
+          "created_at": "2021-02-06T11:57:55.000000Z",
+          "updated_at": "2021-02-06T11:57:55.000000Z",
+          "thumbnail": "/storage/40/conversions/601e8440b7ec9_uvelita3-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Компания \"ФИНИСТ\"",
+      "description": "Этот проект создан в период работы в компании «Финист». В этой компании я научился всем главным основополагающим концепциям, необходимым для разработки сайтов, мобильных приложений и десктопных приложений. За что очень благодарен сотрудникам компании «Финист» и особенно моему непосредственному руководителю. Это наш лидер, вдохновитель и учитель — Кубрак Алексей.",
+      "client": "ТОО «Компания ФИНИСТ»",
+      "spec": "Программист fullstack.",
+      "period": "Февраль 2019",
+      "siteurl": "https://finistcom.kz/",
+      "created_at": "2021-02-06 12:00:14",
+      "updated_at": "2021-02-06 12:00:14",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 41,
+          "model_type": "App\\Models\\Project",
+          "model_id": 7,
+          "collection_name": "photo",
+          "name": "601e84bbb4eb0_finist4",
+          "file_name": "601e84bbb4eb0_finist4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 75672,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 29,
+          "created_at": "2021-02-06T12:00:14.000000Z",
+          "updated_at": "2021-02-06T12:00:14.000000Z",
+          "thumbnail": "/storage/41/conversions/601e84bbb4eb0_finist4-thumb.jpg"
+        },
+        {
+          "id": 42,
+          "model_type": "App\\Models\\Project",
+          "model_id": 7,
+          "collection_name": "photo",
+          "name": "601e84c0eeabc_finist1",
+          "file_name": "601e84c0eeabc_finist1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 164051,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 30,
+          "created_at": "2021-02-06T12:00:14.000000Z",
+          "updated_at": "2021-02-06T12:00:14.000000Z",
+          "thumbnail": "/storage/42/conversions/601e84c0eeabc_finist1-thumb.jpg"
+        },
+        {
+          "id": 43,
+          "model_type": "App\\Models\\Project",
+          "model_id": 7,
+          "collection_name": "photo",
+          "name": "601e84c67f333_finist2",
+          "file_name": "601e84c67f333_finist2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 219900,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 31,
+          "created_at": "2021-02-06T12:00:14.000000Z",
+          "updated_at": "2021-02-06T12:00:14.000000Z",
+          "thumbnail": "/storage/43/conversions/601e84c67f333_finist2-thumb.jpg"
+        },
+        {
+          "id": 44,
+          "model_type": "App\\Models\\Project",
+          "model_id": 7,
+          "collection_name": "photo",
+          "name": "601e84cc4912e_finist3",
+          "file_name": "601e84cc4912e_finist3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 176226,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 32,
+          "created_at": "2021-02-06T12:00:14.000000Z",
+          "updated_at": "2021-02-06T12:00:15.000000Z",
+          "thumbnail": "/storage/44/conversions/601e84cc4912e_finist3-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "name": "KOHANA(PHP)",
+          "description": "kohanaphp",
+          "created_at": "2021-02-05 14:26:49",
+          "updated_at": "2021-02-05 14:26:49",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 7,
+            "project_category_id": 4
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 7,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 41,
+          "model_type": "App\\Models\\Project",
+          "model_id": 7,
+          "collection_name": "photo",
+          "name": "601e84bbb4eb0_finist4",
+          "file_name": "601e84bbb4eb0_finist4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 75672,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 29,
+          "created_at": "2021-02-06T12:00:14.000000Z",
+          "updated_at": "2021-02-06T12:00:14.000000Z",
+          "thumbnail": "/storage/41/conversions/601e84bbb4eb0_finist4-thumb.jpg"
+        },
+        {
+          "id": 42,
+          "model_type": "App\\Models\\Project",
+          "model_id": 7,
+          "collection_name": "photo",
+          "name": "601e84c0eeabc_finist1",
+          "file_name": "601e84c0eeabc_finist1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 164051,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 30,
+          "created_at": "2021-02-06T12:00:14.000000Z",
+          "updated_at": "2021-02-06T12:00:14.000000Z",
+          "thumbnail": "/storage/42/conversions/601e84c0eeabc_finist1-thumb.jpg"
+        },
+        {
+          "id": 43,
+          "model_type": "App\\Models\\Project",
+          "model_id": 7,
+          "collection_name": "photo",
+          "name": "601e84c67f333_finist2",
+          "file_name": "601e84c67f333_finist2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 219900,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 31,
+          "created_at": "2021-02-06T12:00:14.000000Z",
+          "updated_at": "2021-02-06T12:00:14.000000Z",
+          "thumbnail": "/storage/43/conversions/601e84c67f333_finist2-thumb.jpg"
+        },
+        {
+          "id": 44,
+          "model_type": "App\\Models\\Project",
+          "model_id": 7,
+          "collection_name": "photo",
+          "name": "601e84cc4912e_finist3",
+          "file_name": "601e84cc4912e_finist3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 176226,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 32,
+          "created_at": "2021-02-06T12:00:14.000000Z",
+          "updated_at": "2021-02-06T12:00:15.000000Z",
+          "thumbnail": "/storage/44/conversions/601e84cc4912e_finist3-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "СОУ Лидер",
+      "description": "Корпоративный мессенджер «Лидер» предоставляет возможность общения, обмена файлами, проведения видеоконференций внутри Вашей организации. Размещение на казахстанских серверах обеспечивает скорость и стабильную работу в любых условиях. Проект разработан как мобильное приложение(Apache Cordova) MOBILE LIDER, WEB-пиложение(Kohana) WEB LIDER, Desktop-приложение(Electron). Этот проект создан в период работы в компании «Финист». В этой компании я научился всем главным основополагающим концепциям, необходимым для разработки сайтов, мобильных приложений и десктопных приложений. За что очень благодарен сотрудникам компании «Финист» и особенно моему непосредственному руководителю. Это наш лидер, вдохновитель и учитель — Кубрак Алексей. Это приложение создавалось в команде, моё участие оценил бы в процентов 70%. Бэкенд проекта — Java (фреймворк Netty). Связь между серверной и клиентской частями — WebSocket.",
+      "client": "ТОО «Компания ФИНИСТ»",
+      "spec": "Программист fullstack.",
+      "period": "2019",
+      "siteurl": "https://lider.finistcom.kz/",
+      "created_at": "2021-02-06 12:06:56",
+      "updated_at": "2021-02-06 12:06:56",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 45,
+          "model_type": "App\\Models\\Project",
+          "model_id": 8,
+          "collection_name": "photo",
+          "name": "601e864f65399_lider4",
+          "file_name": "601e864f65399_lider4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 85455,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 33,
+          "created_at": "2021-02-06T12:06:56.000000Z",
+          "updated_at": "2021-02-06T12:06:56.000000Z",
+          "thumbnail": "/storage/45/conversions/601e864f65399_lider4-thumb.jpg"
+        },
+        {
+          "id": 46,
+          "model_type": "App\\Models\\Project",
+          "model_id": 8,
+          "collection_name": "photo",
+          "name": "601e865627aa8_lider1",
+          "file_name": "601e865627aa8_lider1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 88194,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 34,
+          "created_at": "2021-02-06T12:06:56.000000Z",
+          "updated_at": "2021-02-06T12:06:56.000000Z",
+          "thumbnail": "/storage/46/conversions/601e865627aa8_lider1-thumb.jpg"
+        },
+        {
+          "id": 47,
+          "model_type": "App\\Models\\Project",
+          "model_id": 8,
+          "collection_name": "photo",
+          "name": "601e865c9b278_lider2",
+          "file_name": "601e865c9b278_lider2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 56041,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 35,
+          "created_at": "2021-02-06T12:06:56.000000Z",
+          "updated_at": "2021-02-06T12:06:56.000000Z",
+          "thumbnail": "/storage/47/conversions/601e865c9b278_lider2-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 2,
+          "name": "APACHE CORDOVA",
+          "description": "apache-cordova",
+          "created_at": "2021-02-05 14:26:10",
+          "updated_at": "2021-02-05 14:26:10",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 8,
+            "project_category_id": 2
+          },
+          "media": []
+        },
+        {
+          "id": 3,
+          "name": "ELECTRON",
+          "description": "electron",
+          "created_at": "2021-02-05 14:26:27",
+          "updated_at": "2021-02-05 14:26:27",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 8,
+            "project_category_id": 3
+          },
+          "media": []
+        },
+        {
+          "id": 4,
+          "name": "KOHANA(PHP)",
+          "description": "kohanaphp",
+          "created_at": "2021-02-05 14:26:49",
+          "updated_at": "2021-02-05 14:26:49",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 8,
+            "project_category_id": 4
+          },
+          "media": []
+        },
+        {
+          "id": 6,
+          "name": "MOBILE APPS",
+          "description": "mobile-apps",
+          "created_at": "2021-02-05 14:28:22",
+          "updated_at": "2021-02-05 14:28:22",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 8,
+            "project_category_id": 6
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 8,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 45,
+          "model_type": "App\\Models\\Project",
+          "model_id": 8,
+          "collection_name": "photo",
+          "name": "601e864f65399_lider4",
+          "file_name": "601e864f65399_lider4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 85455,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 33,
+          "created_at": "2021-02-06T12:06:56.000000Z",
+          "updated_at": "2021-02-06T12:06:56.000000Z",
+          "thumbnail": "/storage/45/conversions/601e864f65399_lider4-thumb.jpg"
+        },
+        {
+          "id": 46,
+          "model_type": "App\\Models\\Project",
+          "model_id": 8,
+          "collection_name": "photo",
+          "name": "601e865627aa8_lider1",
+          "file_name": "601e865627aa8_lider1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 88194,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 34,
+          "created_at": "2021-02-06T12:06:56.000000Z",
+          "updated_at": "2021-02-06T12:06:56.000000Z",
+          "thumbnail": "/storage/46/conversions/601e865627aa8_lider1-thumb.jpg"
+        },
+        {
+          "id": 47,
+          "model_type": "App\\Models\\Project",
+          "model_id": 8,
+          "collection_name": "photo",
+          "name": "601e865c9b278_lider2",
+          "file_name": "601e865c9b278_lider2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 56041,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 35,
+          "created_at": "2021-02-06T12:06:56.000000Z",
+          "updated_at": "2021-02-06T12:06:56.000000Z",
+          "thumbnail": "/storage/47/conversions/601e865c9b278_lider2-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Шахматы Онлайн Битва",
+      "description": "Этот проект создан в период работы в компании «Финист». В этой компании я научился всем главным основополагающим концепциям, необходимым для разработки сайтов, мобильных приложений и десктопных приложений. За что очень благодарен сотрудникам компании «Финист» и особенно моему непосредственному руководителю. Это наш лидер, вдохновитель и учитель — Кубрак Алексей. Это приложение создавалось в команде, моё участие по фронтенду оценил бы в процентов 70%. Бэкенд проекта — Java (фреймворк Netty). Бэкенд был уже готов. Использовалcя как готовый API. Связь между серверной и клиентской частями — WebSocket.",
+      "client": "ТОО «Компания ФИНИСТ»",
+      "spec": "Программист fullstack.",
+      "period": "2018",
+      "siteurl": "https://apps.apple.com/us/app/sahmaty-bitva-onlajn/id1162665026?ls=1",
+      "created_at": "2021-02-06 12:37:24",
+      "updated_at": "2021-02-06 12:37:24",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 58,
+          "model_type": "App\\Models\\Project",
+          "model_id": 9,
+          "collection_name": "photo",
+          "name": "601e8f56a66c3_chess4",
+          "file_name": "601e8f56a66c3_chess4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 115986,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 46,
+          "created_at": "2021-02-06T12:45:29.000000Z",
+          "updated_at": "2021-02-06T12:45:29.000000Z",
+          "thumbnail": "/storage/58/conversions/601e8f56a66c3_chess4-thumb.jpg"
+        },
+        {
+          "id": 59,
+          "model_type": "App\\Models\\Project",
+          "model_id": 9,
+          "collection_name": "photo",
+          "name": "601e8f5c26e08_chess1",
+          "file_name": "601e8f5c26e08_chess1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 133712,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 47,
+          "created_at": "2021-02-06T12:45:29.000000Z",
+          "updated_at": "2021-02-06T12:45:29.000000Z",
+          "thumbnail": "/storage/59/conversions/601e8f5c26e08_chess1-thumb.jpg"
+        },
+        {
+          "id": 60,
+          "model_type": "App\\Models\\Project",
+          "model_id": 9,
+          "collection_name": "photo",
+          "name": "601e8f60d7341_chess2",
+          "file_name": "601e8f60d7341_chess2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 210089,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 48,
+          "created_at": "2021-02-06T12:45:29.000000Z",
+          "updated_at": "2021-02-06T12:45:30.000000Z",
+          "thumbnail": "/storage/60/conversions/601e8f60d7341_chess2-thumb.jpg"
+        },
+        {
+          "id": 61,
+          "model_type": "App\\Models\\Project",
+          "model_id": 9,
+          "collection_name": "photo",
+          "name": "601e8f656e8fc_chess3",
+          "file_name": "601e8f656e8fc_chess3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 186801,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 49,
+          "created_at": "2021-02-06T12:45:30.000000Z",
+          "updated_at": "2021-02-06T12:45:30.000000Z",
+          "thumbnail": "/storage/61/conversions/601e8f656e8fc_chess3-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 2,
+          "name": "APACHE CORDOVA",
+          "description": "apache-cordova",
+          "created_at": "2021-02-05 14:26:10",
+          "updated_at": "2021-02-05 14:26:10",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 9,
+            "project_category_id": 2
+          },
+          "media": []
+        },
+        {
+          "id": 6,
+          "name": "MOBILE APPS",
+          "description": "mobile-apps",
+          "created_at": "2021-02-05 14:28:22",
+          "updated_at": "2021-02-05 14:28:22",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 9,
+            "project_category_id": 6
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 9,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 58,
+          "model_type": "App\\Models\\Project",
+          "model_id": 9,
+          "collection_name": "photo",
+          "name": "601e8f56a66c3_chess4",
+          "file_name": "601e8f56a66c3_chess4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 115986,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 46,
+          "created_at": "2021-02-06T12:45:29.000000Z",
+          "updated_at": "2021-02-06T12:45:29.000000Z",
+          "thumbnail": "/storage/58/conversions/601e8f56a66c3_chess4-thumb.jpg"
+        },
+        {
+          "id": 59,
+          "model_type": "App\\Models\\Project",
+          "model_id": 9,
+          "collection_name": "photo",
+          "name": "601e8f5c26e08_chess1",
+          "file_name": "601e8f5c26e08_chess1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 133712,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 47,
+          "created_at": "2021-02-06T12:45:29.000000Z",
+          "updated_at": "2021-02-06T12:45:29.000000Z",
+          "thumbnail": "/storage/59/conversions/601e8f5c26e08_chess1-thumb.jpg"
+        },
+        {
+          "id": 60,
+          "model_type": "App\\Models\\Project",
+          "model_id": 9,
+          "collection_name": "photo",
+          "name": "601e8f60d7341_chess2",
+          "file_name": "601e8f60d7341_chess2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 210089,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 48,
+          "created_at": "2021-02-06T12:45:29.000000Z",
+          "updated_at": "2021-02-06T12:45:30.000000Z",
+          "thumbnail": "/storage/60/conversions/601e8f60d7341_chess2-thumb.jpg"
+        },
+        {
+          "id": 61,
+          "model_type": "App\\Models\\Project",
+          "model_id": 9,
+          "collection_name": "photo",
+          "name": "601e8f656e8fc_chess3",
+          "file_name": "601e8f656e8fc_chess3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 186801,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 49,
+          "created_at": "2021-02-06T12:45:30.000000Z",
+          "updated_at": "2021-02-06T12:45:30.000000Z",
+          "thumbnail": "/storage/61/conversions/601e8f656e8fc_chess3-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Онлайн опросы",
+      "description": "Онлайн анкетирование позволяет значительно снизить затраты на опрос, расширить географию, сэкономить время, получить результаты быстро и в нужном формате. Этот проект создан в период работы в компании «Финист». В этой компании я научился всем главным основополагающим концепциям, необходимым для разработки сайтов, мобильных приложений и десктопных приложений. За что очень благодарен сотрудникам компании «Финист» и особенно моему непосредственному руководителю. Это наш лидер, вдохновитель и учитель — Кубрак Алексей. Это приложение создавалось в команде, моё участие оценил-бы в процентов 90%. Именно в этих онлайн-опросах пришлось хорошенько попрактиковать запросы SQL. Технологии Kohana(php), javascript, bootstrap-4, flexbox",
+      "client": "ТОО «Компания ФИНИСТ»",
+      "spec": "Программист fullstack.",
+      "period": "2017, 2018",
+      "siteurl": "https://finistcom.kz/",
+      "created_at": "2021-02-06 12:39:27",
+      "updated_at": "2021-02-06 12:39:27",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 52,
+          "model_type": "App\\Models\\Project",
+          "model_id": 10,
+          "collection_name": "photo",
+          "name": "601e8df755821_opros4",
+          "file_name": "601e8df755821_opros4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 69334,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 40,
+          "created_at": "2021-02-06T12:39:27.000000Z",
+          "updated_at": "2021-02-06T12:39:28.000000Z",
+          "thumbnail": "/storage/52/conversions/601e8df755821_opros4-thumb.jpg"
+        },
+        {
+          "id": 53,
+          "model_type": "App\\Models\\Project",
+          "model_id": 10,
+          "collection_name": "photo",
+          "name": "601e8dfdcc9f0_opros2017",
+          "file_name": "601e8dfdcc9f0_opros2017.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 75078,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 41,
+          "created_at": "2021-02-06T12:39:28.000000Z",
+          "updated_at": "2021-02-06T12:39:28.000000Z",
+          "thumbnail": "/storage/53/conversions/601e8dfdcc9f0_opros2017-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 4,
+          "name": "KOHANA(PHP)",
+          "description": "kohanaphp",
+          "created_at": "2021-02-05 14:26:49",
+          "updated_at": "2021-02-05 14:26:49",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 10,
+            "project_category_id": 4
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 10,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 52,
+          "model_type": "App\\Models\\Project",
+          "model_id": 10,
+          "collection_name": "photo",
+          "name": "601e8df755821_opros4",
+          "file_name": "601e8df755821_opros4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 69334,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 40,
+          "created_at": "2021-02-06T12:39:27.000000Z",
+          "updated_at": "2021-02-06T12:39:28.000000Z",
+          "thumbnail": "/storage/52/conversions/601e8df755821_opros4-thumb.jpg"
+        },
+        {
+          "id": 53,
+          "model_type": "App\\Models\\Project",
+          "model_id": 10,
+          "collection_name": "photo",
+          "name": "601e8dfdcc9f0_opros2017",
+          "file_name": "601e8dfdcc9f0_opros2017.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 75078,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 41,
+          "created_at": "2021-02-06T12:39:28.000000Z",
+          "updated_at": "2021-02-06T12:39:28.000000Z",
+          "thumbnail": "/storage/53/conversions/601e8dfdcc9f0_opros2017-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "МЕДИЦИНСКИЙ КОЛЛЕДЖ «СЕМЕЙ»",
+      "description": "Этот проект создан в период моей самостоятельной работы (фриланс) в сотрудничестве с одной частной компанией (ИП). Было создано ещё несколько проектов, но, к сожалению, домены мне не известны.",
+      "client": "Частная компания (ИП)",
+      "spec": "Программист fullstack.",
+      "period": "Февраль 2017",
+      "siteurl": "http://semey-med.kz/",
+      "created_at": "2021-02-06 12:41:22",
+      "updated_at": "2021-02-06 12:41:22",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 54,
+          "model_type": "App\\Models\\Project",
+          "model_id": 11,
+          "collection_name": "photo",
+          "name": "601e8e5d2f299_semeymed4",
+          "file_name": "601e8e5d2f299_semeymed4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 105582,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 42,
+          "created_at": "2021-02-06T12:41:22.000000Z",
+          "updated_at": "2021-02-06T12:41:22.000000Z",
+          "thumbnail": "/storage/54/conversions/601e8e5d2f299_semeymed4-thumb.jpg"
+        },
+        {
+          "id": 55,
+          "model_type": "App\\Models\\Project",
+          "model_id": 11,
+          "collection_name": "photo",
+          "name": "601e8e64cb164_semeymed1",
+          "file_name": "601e8e64cb164_semeymed1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 217637,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 43,
+          "created_at": "2021-02-06T12:41:22.000000Z",
+          "updated_at": "2021-02-06T12:41:23.000000Z",
+          "thumbnail": "/storage/55/conversions/601e8e64cb164_semeymed1-thumb.jpg"
+        },
+        {
+          "id": 56,
+          "model_type": "App\\Models\\Project",
+          "model_id": 11,
+          "collection_name": "photo",
+          "name": "601e8e6ae8841_semeymed2",
+          "file_name": "601e8e6ae8841_semeymed2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 295595,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 44,
+          "created_at": "2021-02-06T12:41:23.000000Z",
+          "updated_at": "2021-02-06T12:41:23.000000Z",
+          "thumbnail": "/storage/56/conversions/601e8e6ae8841_semeymed2-thumb.jpg"
+        },
+        {
+          "id": 57,
+          "model_type": "App\\Models\\Project",
+          "model_id": 11,
+          "collection_name": "photo",
+          "name": "601e8e7158df9_semeymed3",
+          "file_name": "601e8e7158df9_semeymed3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 203194,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 45,
+          "created_at": "2021-02-06T12:41:23.000000Z",
+          "updated_at": "2021-02-06T12:41:23.000000Z",
+          "thumbnail": "/storage/57/conversions/601e8e7158df9_semeymed3-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 7,
+          "name": "WORDPRESS",
+          "description": "wordpress",
+          "created_at": "2021-02-05 14:28:43",
+          "updated_at": "2021-02-05 14:28:43",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 11,
+            "project_category_id": 7
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 11,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 54,
+          "model_type": "App\\Models\\Project",
+          "model_id": 11,
+          "collection_name": "photo",
+          "name": "601e8e5d2f299_semeymed4",
+          "file_name": "601e8e5d2f299_semeymed4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 105582,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 42,
+          "created_at": "2021-02-06T12:41:22.000000Z",
+          "updated_at": "2021-02-06T12:41:22.000000Z",
+          "thumbnail": "/storage/54/conversions/601e8e5d2f299_semeymed4-thumb.jpg"
+        },
+        {
+          "id": 55,
+          "model_type": "App\\Models\\Project",
+          "model_id": 11,
+          "collection_name": "photo",
+          "name": "601e8e64cb164_semeymed1",
+          "file_name": "601e8e64cb164_semeymed1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 217637,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 43,
+          "created_at": "2021-02-06T12:41:22.000000Z",
+          "updated_at": "2021-02-06T12:41:23.000000Z",
+          "thumbnail": "/storage/55/conversions/601e8e64cb164_semeymed1-thumb.jpg"
+        },
+        {
+          "id": 56,
+          "model_type": "App\\Models\\Project",
+          "model_id": 11,
+          "collection_name": "photo",
+          "name": "601e8e6ae8841_semeymed2",
+          "file_name": "601e8e6ae8841_semeymed2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 295595,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 44,
+          "created_at": "2021-02-06T12:41:23.000000Z",
+          "updated_at": "2021-02-06T12:41:23.000000Z",
+          "thumbnail": "/storage/56/conversions/601e8e6ae8841_semeymed2-thumb.jpg"
+        },
+        {
+          "id": 57,
+          "model_type": "App\\Models\\Project",
+          "model_id": 11,
+          "collection_name": "photo",
+          "name": "601e8e7158df9_semeymed3",
+          "file_name": "601e8e7158df9_semeymed3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 203194,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 45,
+          "created_at": "2021-02-06T12:41:23.000000Z",
+          "updated_at": "2021-02-06T12:41:23.000000Z",
+          "thumbnail": "/storage/57/conversions/601e8e7158df9_semeymed3-thumb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Компания \"SMARTEXWEB\" - Vue",
+      "description": "Этот проект создан с целью изучения фреймворка Vue.js, с целью изучения Vue Router,  изучения стэйт менеджера Vuex, документации и прочего для фреймворка Vue.js.\r\n\r\nВ проекте используется очень удобный CSS фреймворк Vuetify.\r\n\r\nФильтрация списка проектов реализована при помощи стэйт менеджера Vuex. \r\n\r\nAPI реализован с использованием фреймворка Laravel —  https://laravel.smartexweb.kz/",
+      "client": "SMARTEXWEB",
+      "spec": "Генеральный директор, программист fullstack.",
+      "period": "2021",
+      "siteurl": "https://vue.smartexweb.kz/",
+      "created_at": "2021-02-18 06:56:44",
+      "updated_at": "2021-02-18 06:56:44",
+      "deleted_at": null,
+      "author_id": null,
+      "photo": [
+        {
+          "id": 62,
+          "model_type": "App\\Models\\Project",
+          "model_id": 12,
+          "collection_name": "photo",
+          "name": "602e0f97710b6_smvue4",
+          "file_name": "602e0f97710b6_smvue4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 58099,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 50,
+          "created_at": "2021-02-18T06:56:44.000000Z",
+          "updated_at": "2021-02-18T06:56:44.000000Z",
+          "thumbnail": "/storage/62/conversions/602e0f97710b6_smvue4-thumb.jpg"
+        },
+        {
+          "id": 63,
+          "model_type": "App\\Models\\Project",
+          "model_id": 12,
+          "collection_name": "photo",
+          "name": "602e0f9d4d374_smvue1",
+          "file_name": "602e0f9d4d374_smvue1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 100127,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 51,
+          "created_at": "2021-02-18T06:56:44.000000Z",
+          "updated_at": "2021-02-18T06:56:44.000000Z",
+          "thumbnail": "/storage/63/conversions/602e0f9d4d374_smvue1-thumb.jpg"
+        },
+        {
+          "id": 64,
+          "model_type": "App\\Models\\Project",
+          "model_id": 12,
+          "collection_name": "photo",
+          "name": "602e0fa3e1804_smvue2",
+          "file_name": "602e0fa3e1804_smvue2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 120153,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 52,
+          "created_at": "2021-02-18T06:56:44.000000Z",
+          "updated_at": "2021-02-18T06:56:44.000000Z",
+          "thumbnail": "/storage/64/conversions/602e0fa3e1804_smvue2-thumb.jpg"
+        },
+        {
+          "id": 65,
+          "model_type": "App\\Models\\Project",
+          "model_id": 12,
+          "collection_name": "photo",
+          "name": "602e0fa9ed408_smvue3",
+          "file_name": "602e0fa9ed408_smvue3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 111679,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 53,
+          "created_at": "2021-02-18T06:56:44.000000Z",
+          "updated_at": "2021-02-18T06:56:44.000000Z",
+          "thumbnail": "/storage/65/conversions/602e0fa9ed408_smvue3-thumb.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 8,
+          "name": "VUE",
+          "description": "vue",
+          "created_at": "2021-02-18 06:55:07",
+          "updated_at": "2021-02-18 06:55:07",
+          "deleted_at": null,
+          "photo": null,
+          "pivot": {
+            "project_id": 12,
+            "project_category_id": 8
+          },
+          "media": []
+        }
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "technologies",
+          "created_at": "2021-02-05 14:37:33",
+          "updated_at": "2021-02-05 14:37:33",
+          "deleted_at": null,
+          "pivot": {
+            "project_id": 12,
+            "project_tag_id": 1
+          }
+        }
+      ],
+      "media": [
+        {
+          "id": 62,
+          "model_type": "App\\Models\\Project",
+          "model_id": 12,
+          "collection_name": "photo",
+          "name": "602e0f97710b6_smvue4",
+          "file_name": "602e0f97710b6_smvue4.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 58099,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 50,
+          "created_at": "2021-02-18T06:56:44.000000Z",
+          "updated_at": "2021-02-18T06:56:44.000000Z",
+          "thumbnail": "/storage/62/conversions/602e0f97710b6_smvue4-thumb.jpg"
+        },
+        {
+          "id": 63,
+          "model_type": "App\\Models\\Project",
+          "model_id": 12,
+          "collection_name": "photo",
+          "name": "602e0f9d4d374_smvue1",
+          "file_name": "602e0f9d4d374_smvue1.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 100127,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 51,
+          "created_at": "2021-02-18T06:56:44.000000Z",
+          "updated_at": "2021-02-18T06:56:44.000000Z",
+          "thumbnail": "/storage/63/conversions/602e0f9d4d374_smvue1-thumb.jpg"
+        },
+        {
+          "id": 64,
+          "model_type": "App\\Models\\Project",
+          "model_id": 12,
+          "collection_name": "photo",
+          "name": "602e0fa3e1804_smvue2",
+          "file_name": "602e0fa3e1804_smvue2.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 120153,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 52,
+          "created_at": "2021-02-18T06:56:44.000000Z",
+          "updated_at": "2021-02-18T06:56:44.000000Z",
+          "thumbnail": "/storage/64/conversions/602e0fa3e1804_smvue2-thumb.jpg"
+        },
+        {
+          "id": 65,
+          "model_type": "App\\Models\\Project",
+          "model_id": 12,
+          "collection_name": "photo",
+          "name": "602e0fa9ed408_smvue3",
+          "file_name": "602e0fa9ed408_smvue3.jpg",
+          "mime_type": "image/jpeg",
+          "disk": "public",
+          "size": 111679,
+          "manipulations": [],
+          "custom_properties": {
+            "generated_conversions": {
+              "thumb": true
+            }
+          },
+          "responsive_images": [],
+          "order_column": 53,
+          "created_at": "2021-02-18T06:56:44.000000Z",
+          "updated_at": "2021-02-18T06:56:44.000000Z",
+          "thumbnail": "/storage/65/conversions/602e0fa9ed408_smvue3-thumb.jpg"
+        }
+      ]
+    }
+  ]
+}

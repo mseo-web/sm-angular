@@ -1,0 +1,35 @@
+<div class=" content">
+
+  <div class="row justify-content-around">
+    <h1>Проекты</h1>
+  </div>
+
+  <div class="row pl-4 pr-4">
+    <!-- <button type="button" class="btn btn-outline-danger m-1">ВСЕ</button> -->
+    <div class="d-flex justify-content-center flex-wrap pl-4 pr-4">
+      <div *ngFor="let cat of server_categories">
+        <button type="button" class="btn btn-outline-danger btn-sm ml-1" (click)="getProjects(cat.id)">{{cat.name}}</button>
+      </div>
+    </div>
+  </div><!-- row -->
+
+  <div class=" row">
+    <div class=" col-12">
+      <div class="d-flex flex-wrap">
+        <div *ngFor="let item of current_projects" class="p-2">
+          <div class="card" style="width: 18rem;">
+            <img src="https://laravel.smartexweb.kz/storage/{{item.photo[0].id}}/{{item.photo[0].file_name}}" class="card-img-top" alt="...">
+            <div class="card-body">
+              <div class="card-name">
+                <h4 class="card-title">{{item.name}}</h4>
+              </div>
+              <p class="card-text">{{item.period}}</p>
+              <a routerLink="/project-detail/{{item.id}}" class="btn btn-primary">ПОДРОБНЕЕ</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>

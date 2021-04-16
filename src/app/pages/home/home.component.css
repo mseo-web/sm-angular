@@ -1,0 +1,13 @@
+/* .carousel-caption h3, .carousel-caption p{
+  color: #000000 !important;
+} */
+
+.carousel-caption span {
+  color: #FF4500;
+}
+
+@media only screen  and (max-width: 768px) {
+  .carousel-caption {
+    display: none;
+  }
+}
